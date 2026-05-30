@@ -2,7 +2,7 @@ pymdown-extensions
 plantuml-markdown
 Markdown
 MarkupSafe
-mkdocs
+mkdocs=1.6.0
 mkdocs-get-deps
 mkdocs-material
 mkdocs-material-extensions
