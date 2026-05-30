@@ -1,0 +1,36 @@
+# Project information
+site_name: VS IMPOSTOR Zside Wiki  # サイト名
+#site_url: http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki  # サイトのURL
+#site_description: The VS IMPOSTOR Zside Wiki  # サイトの説明
+#site_author: Youbadao  # サイトの作成者
+#repo_url: https://github.com/youbadao-sussy/VS_IMPOSTOR_Zside_Wiki  # リポジトリのURL
+#repo_name: youbadao-sussy/VS_IMPOSTOR_Zside_Wiki  # リポジトリ名
+
+# Copyright
+copyright: 'Copyright © 2026 Youbadao. All rights reserved.'  # 著作権情報
+
+theme:
+  name: 'material'  # テーマの名前
+
+nav:
+  - Home: index.md
+  - Test: test.md
+  - Version:
+    - v1.x:
+        1.0.0: version/v1_0.md
+  - Characters:
+      Boyfriend (Zside): chars/boyfriend-zside.md
+
+# 拡張機能の設定
+markdown_extensions:
+  - mdx_truly_sane_lists:
+      nested_indent: 2
+
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+  - plantuml_markdown:
+      server: http://www.plantuml.com/plantuml
