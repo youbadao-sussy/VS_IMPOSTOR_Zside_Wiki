@@ -13,7 +13,8 @@ jobs:
         with:
           python-version: "3.x"
       - run: pip install -r requirements.txt
-      - run: mkdocs build --strict
+      - name: Deploy HTML files
+        run: python3 -m mkdocs gh-deploy
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
