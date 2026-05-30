@@ -1,31 +1,20 @@
-name: MkDocs
-
+name: Deploy MkDocs to GitHub Pages
 on:
   push:
-    branches:
-      - master
-    paths:
-      - mkdocs.yml
-      - docs/**
-
+    branches: [main]
+permissions:
+  contents: write
 jobs:
   deploy:
-    runs-on: windows-latest
-
+    runs-on: ubuntu-latest
     steps:
-      - name: Checkout the repository
-        uses: actions/checkout@v2
-
-      - name: Configure Git
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git fetch origin gh-pages
-
-      - name: Install MkDocs
-        run: |
-          python3 -m pip install setuptools
-          python3 -m pip install -r requirements.txt
-
-      - name: Deploy HTML files
-        run: python3 -m mkdocs gh-deploy
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - run: pip install -r requirements.txt
+      - run: mkdocs build --strict
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
