@@ -14,7 +14,7 @@ This is VS IMPOSTOR Zside.
 
 | メジャーバージョン | マイナーバージョン | |
 |-|-|-|
-| v1.x | [v1.0.0](v1.0) | 
+| v1.x | [v1.0.0](version/v1_0.md) | 
 
 [v1.0]: version/v1_0.md
 [v1.1]: version/v1_1.md

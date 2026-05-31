@@ -5,7 +5,7 @@
   <summary style="cursor: pointer; font-weight: bold;">Boyfriend</summary>
     <div align="center">
 <body>
-<img id="mainImage" src="" alt="" style="max-width: 30%; height: auto;">
+<img id="mainImage" src="" alt="" style="max-width: 40%; height: auto;">
 
 <div class="controls">
   <button id="prtBtn" style="background-color: #acacac; color: white; padding: 0.5rem 1rem; border: none; border-radius: 4px; cursor: pointer;">Portrait</button>
@@ -16,7 +16,7 @@
   // 画像データ配列（ファイル名とaltテキスト）
   const images = [
     { src: "img/BF.svg", alt: "Portrait" },
-    { src: "img/Week1__Default.svg", alt: "Default" }
+    { src: "img/week1/idle.gif", alt: "Default" }
   ];
 
   let currentIndex = 0; // 現在の画像インデックス
@@ -28,7 +28,6 @@
   function updateImage(index) {
     mainImage.src = images[index].src;
     mainImage.alt = images[index].alt;
-    mainImage.style = images[index].style;
   }
 
   // 初期表示
@@ -141,3 +140,13 @@
 
 
 Boyfriendはラッパーで、VS Impostor Zsideの主人公です。
+
+## 外観
+Boyfriendは基本誰にでも優しく、明るい性格をしている黒人です。
+彼はオレンジ色の髪の毛を持ち、赤いニット帽をかぶり、灰色のパーカー、赤いズボン、黒いブーツを履いています。
+
+Skeld Carelessness Weekでは、灰色のニット帽、パーカー、ズボンに、赤い靴を履いています。
+
+## トリビア
+* 公式の「Boyfriend」とは異なり、彼は話すことができます。
+
