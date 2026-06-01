@@ -12,9 +12,10 @@ This is VS IMPOSTOR Zside.
 
 進捗: <progress value="95" max="100">95%</progress>
 
-| メジャーバージョン | マイナーバージョン | |
-|-|-|-|
-| v1.x | [v1.0.0](version/v1_0.md) | 
+| メジャーバージョン | マイナーバージョン |
+|-|-|
+| v1.x | [v1.0.0](version/v1_0.md), v1.1.0 |
+
 
 [v1.0]: version/v1_0.md
 [v1.1]: version/v1_1.md
