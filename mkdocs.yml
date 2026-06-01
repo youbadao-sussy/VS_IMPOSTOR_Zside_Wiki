@@ -31,14 +31,14 @@ nav:
 
 # 拡張機能の設定
 markdown_extensions:
-  - admonition
-  - footnotes
-  - codehilite
-  - def_list
-  - pymdownx.tasklist:
-    custom_checkbox: true
-  - attr_list
-  - md_in_html
+#  - admonition
+#  - footnotes
+#  - codehilite
+#  - def_list
+#  - pymdownx.tasklist:
+#    custom_checkbox: true
+#  - attr_list
+#  - md_in_html
 
   - mdx_truly_sane_lists:
       nested_indent: 2
