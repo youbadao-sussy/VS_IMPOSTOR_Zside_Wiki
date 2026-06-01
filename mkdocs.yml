@@ -15,6 +15,10 @@ theme:
     primary: yellow
   logo: img/appicon.svg
   favicon: img/icon.svg
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
 
 nav:
   - Home: index.md
@@ -27,6 +31,15 @@ nav:
 
 # 拡張機能の設定
 markdown_extensions:
+  - admonition
+  - footnotes
+  - codehilite
+  - def_list
+  - pymdownx.tasklist:
+    custom_checkbox: true
+  - attr_list
+  - md_in_html
+
   - mdx_truly_sane_lists:
       nested_indent: 2
 
