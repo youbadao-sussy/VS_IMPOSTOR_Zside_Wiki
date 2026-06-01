@@ -18,22 +18,12 @@ This is VS IMPOSTOR Zside.
 
 [v1.0]: version/v1_0.md
 [v1.1]: version/v1_1.md
-___
 
-# Welcome message
+## クレジット
+### 著者
+* Youba
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### VS IMPOSTOR Zside 制作者
+* Youba - ディレクター, 作曲者, アーティスト, アニメーター及びプログラマー。
+* Shikumiro - アーティスト。
+* 山猫 照 - 作曲者。
