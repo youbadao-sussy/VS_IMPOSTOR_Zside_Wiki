@@ -37,9 +37,10 @@ theme:
 nav:
   - Home: index.md
   - Test: test.md
-  - Version:
-    - v1.x:
-        1.0.0: version/v1_0.md
+  - All Version:
+    - v1.x 系列:
+        1.0.0 - The Skeld Update: version/v1_0.md
+        1.1.0 - The Meltdown Update (Pitstop): version/v1_1.md
   - Characters:
       Boyfriend (Zside): chars/boyfriend-zside.md
 
