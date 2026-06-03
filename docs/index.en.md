@@ -2,14 +2,14 @@
 
 ??? info "Announcement. If you'll see this, please click this"
     ??? note "The mod will be update"
-        現在、modはアップデートを制作中です。
-        このwikiには仮の画像や記事があります。
-        > v1.1.0, v2.0を制作中
+        Now, we developing an update.
+        This wiki have example image and article.
+        > Developing v1.1.0 and v2.0
 
-    ??? warning "Unfinished wiki"
-        このwikiは色々と作りかけです。
-        そのため、あまり情報が入っていません。
-        ご理解お願いします。
+    ??? warning "Unfinished article"
+        This wiki is making now.
+        So, There isn't much information available.
+        Please understand. Thanks yo.
 
 <div align="center">
     <img src="img/Logo-WhiteMode.svg">

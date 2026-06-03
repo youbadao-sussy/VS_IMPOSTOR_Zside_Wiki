@@ -58,12 +58,14 @@ plugins:
       reconfigure_search: true
       nav_translations:
         en:
-          site_name: VS IMPOSTOR Zside Wiki
+          # メインカテゴリ
           ホーム: Home
           テスト: Test
           全バージョン及び今後のアップデート: All Version & Upcoming Update
-          v1.x 系列: v1.x
           キャラクター紹介: Character Information
+
+          # サブカテゴリ
+          v1.x 系列: v1.x
   - git-revision-date-localized:
       type: datetime
       timezone: Asia/Tokyo
