@@ -11,6 +11,7 @@ copyright: 'Copyright © 2026 Youbadao. All rights reserved.'  # 著作権情報
 
 theme:
   name: 'material'  # テーマの名前
+  language: 'ja'
   palette:
     primary: yellow
   logo: img/appicon.svg
@@ -41,8 +42,13 @@ plugins:
   - i18n:
       default_language: ja
       languages:
-        en: English
-        ja: 日本語
+        - locale: ja
+          name: 日本語
+          build: true
+          default: true
+        - locale: en
+          name: English
+          build: true
       nav_translations:
         en:
           site_name: VS IMPOSTOR Zside Wiki
@@ -51,6 +57,15 @@ plugins:
           全バージョン及び今後のアップデート: All Version & Upcoming Update
           v1.x 系列: v1.x
           キャラクター紹介: Character Information
+
+extra:
+  alternate:
+    - name: 日本語
+      link: /
+      lang: ja
+    - name: English
+      link: /
+      lang: en
 
 # 拡張機能の設定
 markdown_extensions:
