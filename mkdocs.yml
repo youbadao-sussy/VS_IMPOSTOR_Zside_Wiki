@@ -73,10 +73,10 @@ plugins:
 extra:
   alternate:
     - name: 日本語
-      link: /
+      link: /VS_IMPOSTOR_Zside_Wiki/
       lang: ja
     - name: English
-      link: /en/
+      link: /VS_IMPOSTOR_Zside_Wiki/en/
       lang: en
 
 # 拡張機能の設定
