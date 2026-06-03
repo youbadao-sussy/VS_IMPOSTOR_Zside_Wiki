@@ -35,13 +35,13 @@ theme:
       quote: octicons/quote-16
 
 nav:
-  - Home: index.md
-  - Test: test.md
-  - All Version:
+  - ホーム: index.md
+  - テスト(ここには何もないよ！): test.md
+  - 全バージョン及び今後のアップデート:
     - v1.x 系列:
         1.0.0 - The Skeld Update: version/v1_0.md
         1.1.0 - The Meltdown Update (Pitstop / Upcoming): version/v1_1.md
-  - Characters:
+  - キャラクター紹介:
       Boyfriend (Zside): chars/boyfriend-zside.md
 
 # 拡張機能の設定
