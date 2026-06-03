@@ -21,7 +21,7 @@ This is VS IMPOSTOR Zside.
 
 TODO: `v1.1.0`
 
-progress: <progress value="95" max="100">13%</progress>
+progress: <progress value="13" max="100">13%</progress>
 
 ## クレジット
 ### 著者

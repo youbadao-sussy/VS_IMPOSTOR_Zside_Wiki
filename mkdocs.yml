@@ -43,7 +43,8 @@ plugins:
         - ja
         - en
   - i18n:
-      default_language: ja
+      docs_structure: suffix
+      fallback_to_default: true
       languages:
         - locale: ja
           name: 日本語
@@ -52,6 +53,9 @@ plugins:
         - locale: en
           name: English
           build: true
+          default: false
+      reconfigure_material: true
+      reconfigure_search: true
       nav_translations:
         en:
           site_name: VS IMPOSTOR Zside Wiki

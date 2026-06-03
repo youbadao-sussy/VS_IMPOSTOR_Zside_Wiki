@@ -19,17 +19,9 @@ This is VS IMPOSTOR Zside.
 
 ## All version
 
-現在制作中のバージョン: [1.0.0](v1.0)
+現在制作中のバージョン: `v1.1.0`
 
-進捗: <progress value="95" max="100">95%</progress>
-
-| メジャーバージョン | マイナーバージョン |
-|-|-|
-| v1.x | [v1.0.0](version/v1_0.md), v1.1.0 |
-
-
-[v1.0]: version/v1_0.md
-[v1.1]: version/v1_1.md
+進捗: <progress value="13" max="100">13%</progress>
 
 ## クレジット
 ### 著者
