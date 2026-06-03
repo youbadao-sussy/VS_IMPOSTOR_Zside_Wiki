@@ -41,8 +41,8 @@ plugins:
   - i18n:
       default_language: ja
       languages:
-        en: English (United States)
-        ja: 日本語 (Japanese)
+        en: English
+        ja: 日本語
       nav_translations:
         en:
           site_name: VS IMPOSTOR Zside Wiki
