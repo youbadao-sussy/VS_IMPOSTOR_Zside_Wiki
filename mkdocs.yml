@@ -34,15 +34,31 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
 
+plugins:
+  - search:
+  - i18n:
+      default_language: ja
+      languages:
+        en: English (United States)
+        ja: 日本語 (Japanese)
+      nav_translation:
+        en:
+          site_name: VS IMPOSTOR Zside Wiki
+          ホーム: Home
+          テスト: Test
+          全バージョン及び今後のアップデート: All Version & Upcoming Update
+          v1.x 系列: v1.x
+          キャラクター紹介: Character Information
+
 nav:
   - ホーム: index.md
-  - テスト(ここには何もないよ！): test.md
+  - テスト: test.ja.md
   - 全バージョン及び今後のアップデート:
     - v1.x 系列:
-        1.0.0 - The Skeld Update: version/v1_0.md
-        1.1.0 - The Meltdown Update (Pitstop / Upcoming): version/v1_1.md
+        1.0.0 - The Skeld Update: version/v1_0.ja.md
+        1.1.0 - The Meltdown Update (Pitstop / Upcoming): version/v1_1.ja.md
   - キャラクター紹介:
-      Boyfriend (Zside): chars/boyfriend-zside.md
+      Boyfriend (Zside): chars/boyfriend-zside.ja.md
 
 # 拡張機能の設定
 markdown_extensions:
