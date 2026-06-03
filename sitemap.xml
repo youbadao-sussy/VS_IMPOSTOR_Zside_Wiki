@@ -1,38 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/</loc>
-         <lastmod>2026-06-03</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/"/>
     </url>
     <url>
-         <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/test/</loc>
-         <lastmod>2026-06-03</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/test/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/test/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/test/"/>
     </url>
     <url>
-         <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/chars/boyfriend-zside/</loc>
-         <lastmod>2026-06-03</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/chars/boyfriend-zside/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/chars/boyfriend-zside/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/chars/boyfriend-zside/"/>
     </url>
     <url>
-         <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/chars/boyfriend-zside/boyfriend-zside/</loc>
-         <lastmod>2026-06-03</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/chars/boyfriend-zside/boyfriend-zside/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/chars/boyfriend-zside/boyfriend-zside/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/chars/boyfriend-zside/boyfriend-zside/"/>
     </url>
     <url>
-         <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/version/v1_0/</loc>
-         <lastmod>2026-06-03</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/version/v1_0/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/version/v1_0/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/version/v1_0/"/>
     </url>
     <url>
-         <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/version/v1_1/</loc>
-         <lastmod>2026-06-03</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/version/v1_1/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/version/v1_1/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/version/v1_1/"/>
     </url>
     <url>
-         <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/version/v2_0/</loc>
-         <lastmod>2026-06-03</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/version/v2_0/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/version/v2_0/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/version/v2_0/"/>
+    </url>
+    <url>
+        <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/"/>
+    </url>
+    <url>
+        <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/test/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/test/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/test/"/>
+    </url>
+    <url>
+        <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/chars/boyfriend-zside/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/chars/boyfriend-zside/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/chars/boyfriend-zside/"/>
+    </url>
+    <url>
+        <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/chars/boyfriend-zside/boyfriend-zside/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/chars/boyfriend-zside/boyfriend-zside/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/chars/boyfriend-zside/boyfriend-zside/"/>
+    </url>
+    <url>
+        <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/version/v1_0/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/version/v1_0/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/version/v1_0/"/>
+    </url>
+    <url>
+        <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/version/v1_1/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/version/v1_1/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/version/v1_1/"/>
+    </url>
+    <url>
+        <loc>http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/version/v2_0/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/en/version/v2_0/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="http://youbadao.github.io/VS_IMPOSTOR_Zside_Wiki/version/v2_0/"/>
     </url>
 </urlset>
