@@ -19,9 +19,9 @@ This is VS IMPOSTOR Zside.
 
 ## All version
 
-Developing now... `v1.1.0`
+TODO: `v1.1.0`
 
-進捗: <progress value="95" max="100">13%</progress>
+progress: <progress value="95" max="100">13%</progress>
 
 ## クレジット
 ### 著者
