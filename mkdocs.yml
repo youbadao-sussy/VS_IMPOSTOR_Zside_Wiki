@@ -16,6 +16,8 @@ theme:
   logo: img/appicon.svg
   favicon: img/icon.svg
   features:
+    - navigation.indexes
+    - navigation.expand
     - navigation.tabs
     - navigation.top
     - toc.integrate
@@ -41,7 +43,7 @@ plugins:
       languages:
         en: English (United States)
         ja: 日本語 (Japanese)
-      nav_translation:
+      nav_translations:
         en:
           site_name: VS IMPOSTOR Zside Wiki
           ホーム: Home
@@ -50,23 +52,16 @@ plugins:
           v1.x 系列: v1.x
           キャラクター紹介: Character Information
 
-nav:
-  - ホーム: index.md
-  - テスト: test.ja.md
-  - 全バージョン及び今後のアップデート:
-    - v1.x 系列:
-        1.0.0 - The Skeld Update: version/v1_0.ja.md
-        1.1.0 - The Meltdown Update (Pitstop / Upcoming): version/v1_1.ja.md
-  - キャラクター紹介:
-      Boyfriend (Zside): chars/boyfriend-zside.ja.md
-
 # 拡張機能の設定
 markdown_extensions:
+  - codehilite:
+      noclasses: true
+      pygments_style: colorful
+      linenums: true
   - admonition
   - pymdownx.details
   - pymdownx.superfences
 #  - footnotes
-#  - codehilite
 #  - def_list
 #  - pymdownx.tasklist:
 #    custom_checkbox: true
@@ -87,3 +82,13 @@ markdown_extensions:
 
 extra_javascript:
   - https://unpkg.com/mermaid@10.6.1/dist/mermaid.min.js
+
+nav:
+  - ホーム: index.md
+  - テスト: test.ja.md
+  - 全バージョン及び今後のアップデート:
+    - v1.x 系列:
+        1.0.0 - The Skeld Update: version/v1_0.ja.md
+        1.1.0 - The Meltdown Update (Pitstop / Upcoming): version/v1_1.ja.md
+  - キャラクター紹介:
+      Boyfriend (Zside): chars/boyfriend-zside.ja.md
