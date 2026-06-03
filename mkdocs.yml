@@ -76,7 +76,7 @@ extra:
       link: /
       lang: ja
     - name: English
-      link: /
+      link: /en/
       lang: en
 
 # 拡張機能の設定
