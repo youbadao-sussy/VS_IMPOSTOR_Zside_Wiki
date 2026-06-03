@@ -19,7 +19,7 @@ theme:
   features:
     - navigation.indexes
     - navigation.expand
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.top
     - toc.integrate
   icon:
