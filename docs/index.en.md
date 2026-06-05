@@ -17,17 +17,15 @@
 
 This is VS IMPOSTOR Zside.
 
-## All version
-
 TODO: `v1.1.0`
 
 progress: <progress value="13" max="100">13%</progress>
 
-## クレジット
-### 著者
+## Credits
+### Author
 * Youba
 
-### VS IMPOSTOR Zside 制作者
-* Youba - ディレクター, 作曲者, アーティスト, アニメーター及びプログラマー。
-* Shikumiro - アーティスト。
-* 山猫 照 - 作曲者。
+### Funkin' Zside Team
+* Youba - Director, Composer, Artist, Animator and Programmer.
+* Shikumiro - Artist.
+* Teru Yamane - Composer.

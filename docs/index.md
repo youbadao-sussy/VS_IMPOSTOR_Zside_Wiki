@@ -15,9 +15,7 @@
     <img src="img/Logo-WhiteMode.svg">
 </div>
 
-This is VS IMPOSTOR Zside.
-
-## All version
+これがVS IMPOSTOR Zsideだ。
 
 現在制作中のバージョン: `v1.1.0`
 
@@ -25,9 +23,9 @@ This is VS IMPOSTOR Zside.
 
 ## クレジット
 ### 著者
-* Youba
+* ようば
 
-### VS IMPOSTOR Zside 制作者
-* Youba - ディレクター, 作曲者, アーティスト, アニメーター及びプログラマー。
-* Shikumiro - アーティスト。
+### Funkin' Zside Team
+* ようば - ディレクター, 作曲者, アーティスト, アニメーター及びプログラマー。
+* しくみろ - アーティスト。
 * 山猫 照 - 作曲者。
