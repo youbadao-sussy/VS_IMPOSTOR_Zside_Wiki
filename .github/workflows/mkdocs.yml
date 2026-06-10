@@ -17,11 +17,11 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Configure Git
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git fetch origin gh-pages
+     # - name: Configure Git
+     #   run: |
+      #    git config user.name github-actions
+       #   git config user.email github-actions@github.com
+        #  git fetch origin gh-pages
           
       - run: pip install -r requirements.txt
       - name: Deploy HTML files
