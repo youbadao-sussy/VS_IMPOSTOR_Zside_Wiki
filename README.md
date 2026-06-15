@@ -1,3 +1,2 @@
 # VS IMPOSTOR Zside Wiki
-* Creater: Youba
-* Copyright: VS IMPOSTOR Zside Team
+* Copyright: Youbadao - The Funkin' Zside Team
