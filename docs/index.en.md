@@ -6,10 +6,20 @@
         This wiki have example image and article.
         > Developing v1.1.0 and v2.0
 
-    ??? warning "Unfinished article"
-        This wiki is making now.
-        So, There isn't much information available.
-        Please understand. Thanks yo.
+    ??? warning "About changing the framework"
+        This article is currently written using MkDocs (Material theme).
+
+        However, after receiving the collapse scandal of the MkDocs development team,
+
+        We are considering changing it to "Zensical" created by the developers of MkDocs-material.
+
+        Therefore, the creation of this article is suspended until the migration to Zensical is completed.
+
+        Thank you for your understanding.
+    ??? warning "About the unfinished framework, Zensical (Precautions after migration)"
+        Zensical is incomplete, and there are parts where the display of IPad and Win11 Desktop does not match.
+
+        I think it will be improved in future updates of Zensical, but please understand that the display is not consistent until then.
 
 <div align="center">
     <img src="img/Logo-WhiteMode.svg">
